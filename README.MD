@@ -63,11 +63,11 @@ Download [electronics_cover_lid.stl](./3D_Models/LID_CONVEYOR.stl)
   <tr>
     <td>
     Electronics Cover LID
-      <img src="./Images/Image (4_1).jpg" alt="DOBOT M1 SCARA – Day 1" width="500">
+      <img src="./Images/Image (4_1).JPG" alt="DOBOT M1 SCARA – Day 1" width="500">
     </td>
     <td>
     Electronics Cover Casing
-      <img src="./Images/Image (4_2).jpg" alt="DOBOT M1 SCARA – Day 1" width="500">
+      <img src="./Images/Image (4_2).JPG" alt="DOBOT M1 SCARA – Day 1" width="500">
     </td>
 
   </tr>
